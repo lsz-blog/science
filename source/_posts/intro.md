@@ -1,8 +1,8 @@
 ---
 title: Hello World
-date: 2022-09-11 19:53:07
+date: 2022-09-11 20:09:00
 tags:
   - 杂项
 mathjax: true
 ---
-$ \text[color=red]{\text{Hello World!}} $
+$ \text{Hello World!} $
